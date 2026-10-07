@@ -18,7 +18,7 @@
 ```python
 class Me:
     def __init__(self):
-        self.name = "YOUR NAME"
+        self.name = "MOHAN PRIYA"
         self.role = "Data Scientist / Programmer"
         self.location = "Chennai, India"
         self.languages = ["Python", "SQL", "R"]
@@ -31,10 +31,10 @@ class Me:
 Me().say_hi()
 ```
 
-- 🔭 Currently working on: **YOUR PROJECT**
+- 🔭 Currently working on: **RETAIL DEMAND AND MARKET INTELLIGENCE**
 - 🌱 Learning: **Machine Learning, Deep Learning, Data Engineering**
 - 🤝 Open to collaborate on: **data science & open-source projects**
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: **mohankn1412@gmail.com**
 
 ---
 
