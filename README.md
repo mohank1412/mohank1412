@@ -18,7 +18,7 @@
 ```python
 class Me:
     def __init__(self):
-        self.name = "MOHAN PRIYA"
+        self.name = "MOHAN N"
         self.role = "Data Scientist / Programmer"
         self.location = "Chennai, India"
         self.languages = ["Python", "SQL", "R"]
