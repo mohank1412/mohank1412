@@ -1,4 +1,4 @@
-# MOHAN's - git
+# Mohan's - Git
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MOHAN%20TYLA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Programmer%20%7C%20Problem%20Solver&descAlignY=60&descSize=20" width="100%" />
